@@ -1,2 +1,2 @@
-# Topic-Modeling-the-Beirut-explosion-using-LDA-twitterscraper
+# Topic-Modeling-the-Beirut-explosion-using-LDA & twitterscraper
 In the Lebanese capital of Beirut, at least 135 people are dead and some 5,000 more are injured as the city continues to grapple with the aftermath of a massive explosion that shook the city 4 August 2020. Twitter saw a rise in tweets in response and I scraped that data to investigate what the general topics are which arose from the globe. 
