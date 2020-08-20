@@ -5,4 +5,5 @@ On the afternoon of 4 August 2020, Twitter was ablaze with people from all over 
 
 I look at some ways in which we can extract twitter text linked to the event and apply a popular topic modelling algorithm, LDA ( Latent Dirichlet Allocation) to best extract insights from twitter users’ responses to the catastrophe. You can find all the code for this article here.
 
-I also compare Tweepy vs TwitterScraper for extracting Tweets
+I also compare Tweepy vs TwitterScraper for extracting Tweepy vs TwitterScraper & seapk to Interpreting an LDA's topics
+
